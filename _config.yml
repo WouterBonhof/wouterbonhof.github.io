@@ -22,7 +22,7 @@ repository               : "wouterbonhof/wouterbonhof.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Profiel foto.png"
+  avatar           : "Profiel foto.jpg"
   name             : "Dr. Wouter Bonhof"
   pronouns         : # example: "she/her"  
   bio              : "A former archaeologist, who has switched from digging in dirt to digging into data."

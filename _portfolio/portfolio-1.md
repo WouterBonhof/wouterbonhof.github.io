@@ -18,6 +18,6 @@ The first page with data is 'Kerncijfers 2023'. On this page, the most 'core num
 Hierarchical filters were added, so that data could be filtered by province and/ or municipality. The map is interactive and automatically zooms in and out.
 
 <video width="1280" height="720" controls autoplay muted loop playsinline>
-<source src="Images/Power BI video_HomePage Page 1.mp4" type="video/mp4">
+<source src="Images/HomePage-Page-1.mp4" type="video/mp4">
 </video>
 

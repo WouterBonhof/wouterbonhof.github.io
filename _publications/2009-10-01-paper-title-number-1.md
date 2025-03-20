@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'Whilst mamoths have been extinct for thousands of years, they are still endangered. This article explores the threat of climate change to the preservation of fossil- and mummified mammoth remains.'
-date: 2017
+date: 2017-12-15
 venue: 'Paleo-aktueel'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'

@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Wouter's Homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Dr. Wouter Bonhof"
 description              : &description "The page where it all starts."

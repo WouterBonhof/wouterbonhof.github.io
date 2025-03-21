@@ -11,35 +11,56 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* PhD in Archaeology, University of Exeter, 2023
+* MSc in Bioarchaeology, Leiden University, 2018
+* BA in Archaeology, Leiden University, 2015
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* February 2024 - Current: Junior Consultant/ Data trainee
+  * House of Bèta
+  * Duties included: Training in data skills. Sent out for employment at external parties. 
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* February 2024 - January 2025: IT Support
+  * IVO Rechtspraak (via House of Bèta)
+  * Duties included: Assisting users with software issues. Setting up a new workflow + datasheet for management of internal guide documents.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* September 2019 - August 2023: Doctoral researcher
+  * University of Exeter
+  * Duties included: Managing internation collaboration. Extracting isotope data from fossil material. Analysing and visualising isotope data.
+  * Supervisor: Dr. Alex Pryor
+ 
+* April 2018 - August 2018: Junior field archaeologist
+  * ADC Archeoprojecten
+  * Duties included: Documenten features and finds at archaeological digs. Supervising interns.
+
+* October 2017 - March 2018: Field archaeologist
+  * Alef Groep
+  * Duties included: Documenten features and finds at archaeological digs.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Academic writing
+* Independent research
+* Data anlysis
+* Datamodelling
+* Public speaking
+
+
+ Certifications
+ ======
+ |Skill          |Certificate                        |Company            | Date | 
+ |------         |-----                              |---                |-----|
+ |Data analysis  |Data Analyst Associate             | Data Camp         | 2023|
+ |Agile          |Scrum Foundation                   | EXIN              |01-2024|
+ |SQL            |SQL Coding Apprentice              | Knowledge Pillars |06-2024|
+ |Python         |Certified Entry-Level Programmer   | Python Institute  |07-2024|
+ |Power BI       |Data Analyst Associate PL-300      | Microsoft         |08-2024|
+ |Azure          |Fundamentals AZ-900                | Microsoft         |09-2024|
+ |Power BI       |Certified Data Practitioner        | Data2Benefit      |12-2024|
+ |SQL            |T-SQL Coding Specialist            | Knowledge Pillars |01-2025|
+ |Azure          |Data Fundamentals DP-900           | Microsoft         |02-2025|
+ |Datamodelling  |Datamodelleren                     | Jan Meeuwsen      |04-2025|
 
 Publications
 ======
@@ -52,13 +73,3 @@ Talks
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

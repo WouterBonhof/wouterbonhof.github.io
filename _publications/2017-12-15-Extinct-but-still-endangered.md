@@ -2,7 +2,7 @@
 title: "Uitgestorven, maar nog niet veilig: hoe klimaatverandering de mammoet bedreigt"
 collection: publications
 category: manuscripts
-permalink: /publication/2017-12-15-Extinct-but-still-endangered.md
+permalink: /publication/2017-12-15-Extinct-but-still-endangered
 excerpt: 'Even though mammoths have been extinct for thousands of years, they are still endangered. This article explores the threat of climate change to the preservation of fossil- and mummified mammoth remains.'
 date: 2017-12-15
 venue: 'Paleo-aktueel'

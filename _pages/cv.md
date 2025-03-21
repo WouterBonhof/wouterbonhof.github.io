@@ -52,7 +52,7 @@ Certifications
  
  |Skill          |Certificate                        |Company            | Date | 
  |------         |-----                              |---                |-----|
- |Data analysis  |Data Analyst Associate             | Data Camp         | 2023|
+ |Data analysis  |Data Analyst Associate             | Data Camp         |08-2023|
  |Agile          |Scrum Foundation                   | EXIN              |01-2024|
  |SQL            |SQL Coding Apprentice              | Knowledge Pillars |06-2024|
  |Python         |Certified Entry-Level Programmer   | Python Institute  |07-2024|

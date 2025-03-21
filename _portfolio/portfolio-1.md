@@ -10,7 +10,7 @@ The brokers at WoningNood have informed their managers that the current data sys
 
 ## Product
 A fully functioning dashboard was produced within the expected time. Included were a homepage, four pages with data and visualisations and a final page listing the sources. Data from the CBS (Centraal Bureau voor Statistic/ Central Bureau for Statistiscs) was connected through API's and subjected to rigorous cleaning. Several new tables had to be made by merging and appending tables and all final tables were connected in a datamodel.  
-<p align="center"><img src="/images/Datamodel.png" alt="Datamodel" width="500"></p>
+<p align="center"><img src="/images/Datamodel.png" alt="Datamodel" width="750"></p>
 
 ### Home page and Kerncijfers 2023
 The homepage was produced for ease of navigation. Included are five quick links to the other pages of the report.

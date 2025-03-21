@@ -47,8 +47,8 @@ Skills
 * Public speaking
 
 
- Certifications
- ======
+Certifications
+======
  
  |Skill          |Certificate                        |Company            | Date | 
  |------         |-----                              |---                |-----|

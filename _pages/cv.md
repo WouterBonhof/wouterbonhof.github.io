@@ -49,6 +49,7 @@ Skills
 
  Certifications
  ======
+ 
  |Skill          |Certificate                        |Company            | Date | 
  |------         |-----                              |---                |-----|
  |Data analysis  |Data Analyst Associate             | Data Camp         | 2023|

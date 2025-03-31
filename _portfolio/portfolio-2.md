@@ -1,6 +1,6 @@
 ---
 title: "Datamodel for Grafzerken Nederland"
-excerpt: "A detailed datamodel created for the fictional organisation 'Grafzerken Nederland"
+excerpt: "A detailed datamodel created for the fictional organisation 'Grafzerken Nederland'<br/><img src='/images/LDM_GN.png' width='500'>"
 collection: portfolio
 ---
 

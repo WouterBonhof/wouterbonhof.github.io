@@ -1,4 +1,10 @@
 ---
+title: "Power BI Dashboard for WoningNood"
+excerpt: "The result of a project for the WoningNood, a broker in The Netherlands. <br/><img src='/images/Example-WoningNood.png' width='500'>"
+collection: portfolio
+---
+
+---
 title: "Datamodel for Grafzerken Nederland
 excerpt: "A detailed datamodel created for the fictional organisation 'Grafzerken Nederland"
 collection: portfolio

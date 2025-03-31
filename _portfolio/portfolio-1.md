@@ -1,6 +1,6 @@
 ---
 title: "Power BI Dashboard for WoningNood"
-excerpt: "The result of a project for the WoningNood, a broker in The Netherlands. <br/><img src='/images/Example-WoningNood.png' width='500'>"
+excerpt: "The result of a project for WoningNood, a broker in The Netherlands. <br/><img src='/images/Example-WoningNood.png' width='500'>"
 collection: portfolio
 ---
 

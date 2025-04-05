@@ -4,6 +4,8 @@ excerpt: "The result of a project for WoningNood, a broker in The Netherlands. <
 collection: portfolio
 ---
 
+#Page still under construction
+
 During my Data Traineeship at House of Bèta I worked part-time as a Power BI consultant for the fictional broker WoningNood. Ferdy, an instructor from Data2Benefit, functioned as the contactpoint for WoningNood.
 ## Situation  
 The brokers at WoningNood have informed their managers that the current data system is not sufficient. Every week, the brokers spend at least two hours per person looking for data on the internet for their analyses and visualisations. The board has therefore hired a consultant to investigate the implementation of a Power BI dashboard in which data is extracted through API's. Internal data from WoningNood must be included in the prototype as well, allowing the company to compare themselves against market standards.

@@ -4,7 +4,7 @@ excerpt: "A detailed datamodel created for the non-profit organisation 'Grafzerk
 collection: portfolio
 ---
 
-#Page still under construction
+# _Page still under construction_
 
 During my Data Traineeship at House of Bèta I took part in the course 'Datamodelleren' by Jan Meeuwsen. 
 A key component of the course was the design of a complete datamodel. We were free to pick any topic and I decided to design a datamodel for a fictional non-profit organisation 'Grafzerken Nederland'. 

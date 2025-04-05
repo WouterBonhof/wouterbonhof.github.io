@@ -4,7 +4,7 @@ excerpt: "The result of a project for WoningNood, a broker in The Netherlands. <
 collection: portfolio
 ---
 
-#Page still under construction
+# _Page still under construction_
 
 During my Data Traineeship at House of Bèta I worked part-time as a Power BI consultant for the fictional broker WoningNood. Ferdy, an instructor from Data2Benefit, functioned as the contactpoint for WoningNood.
 ## Situation  

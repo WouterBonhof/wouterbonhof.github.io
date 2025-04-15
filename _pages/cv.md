@@ -9,17 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* PhD in Archaeology, University of Exeter, 2023
-* MSc in Bioarchaeology, Leiden University, 2018
-* BA in Archaeology, Leiden University, 2015
-
 Work experience
 ======
+* March 2024 - Current: Power BI Consultant
+  * House of Cohedron
+  * Duties included: Supporting and improving existing Power BI Dashboards. Creating new Power BI Dashboards for defined projects.
+    
 * February 2024 - Current: Junior Consultant/ Data trainee
   * House of Bèta
-  * Duties included: Training in data skills. Sent out for employment at external parties. 
+  * Duties included: Completed 24-months data training in 13 months. Secondment at external companies for data projects.
 
 * February 2024 - January 2025: IT Support
   * IVO Rechtspraak (via House of Bèta)
@@ -37,12 +35,18 @@ Work experience
 * October 2017 - March 2018: Field archaeologist
   * Alef Groep
   * Duties included: Documenten features and finds at archaeological digs.
+ 
+Education
+======
+* PhD in Archaeology, University of Exeter, 2023
+* MSc in Bioarchaeology, Leiden University, 2018
+* BA in Archaeology, Leiden University, 2015
   
 Skills
 ======
 * Academic writing
 * Independent research
-* Data anlysis
+* Data analysis
 * Datamodelling
 * Public speaking
 

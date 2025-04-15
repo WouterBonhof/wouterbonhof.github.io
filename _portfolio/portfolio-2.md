@@ -2,7 +2,6 @@
 title: "Datamodel for Grafzerken Nederland"
 excerpt: "A detailed datamodel created for the non-profit organisation 'Grafzerken Nederland'<br/><img src='/images/LDM_GN.png' width='500'>"
 collection: portfolio
-paperurl: 'http://wouterbonhof.github.io/files/datamodeleren2025.pdf'
 ---
 
 # _Page still under construction_

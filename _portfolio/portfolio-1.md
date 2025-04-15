@@ -15,9 +15,31 @@ The brokers at WoningNood have informed their managers that the current data sys
 A fully functioning dashboard was produced within the expected time. Included were a homepage, four pages with data and visualisations and a final page listing the sources. Data from the CBS (Centraal Bureau voor Statistic/ Central Bureau for Statistiscs) was connected through API's and subjected to rigorous cleaning. Several new tables had to be made by merging and appending tables and all final tables were connected in a datamodel.  
 <p align="center"><img src="/images/Datamodel.png" alt="Datamodel" width="750"></p>
 
-### Home page and Kerncijfers 2023
+### Homepage and Kerncijfers 2023
 The homepage was produced for ease of navigation. Included are five quick links to the other pages of the report.
-The first page with data is 'Kerncijfers 2023'. On this page, the most 'core numbers' for The Netherlands are processed. Six relevant categories have been selected for the prototype. These are 'Aantal inwoners/ Number of inhabitants', 'Woningvoorraad/ Availability of houses', 'Gemiddelde WOZ waarde/ Average estimated house worth', 'Bevolkingsdichtheid/ Population density', 'Oppervlakte/ Surface', and 'Aantal huishoudens/ Number of families'. Each of these categories included data at the municipal level, but aggregate functions were also used to calculate these numbers at the provincial and national level. For each category, a description was included that describes the contents of the data and how the numbers were calculated. For two categories (Gemiddelde WOZ waarde and Bevolkingsdichtheid), no total or average values were included in the cards at the top of the page, as averages of averages are not appropriate. This explanation was included through the information buttons at the top-right corners of the cards.
+The first page with data is 'Kerncijfers 2023'. On this page, the 'core numbers' for The Netherlands have been visualised. Six relevant categories were selected for the prototype and through bookmarked pages, the users can switch between each category. Each of the categories included data at the municipal level, but aggregate functions were also used to calculate the numbers at the provincial and national level. For each category, a description was included that becomes visible upon hoover. 
+For two categories (Gemiddelde WOZ waarde and Bevolkingsdichtheid), no total or average values were included in the cards, as averages of averages are not appropriate. A little information button was added to the cards in these circumstances to explain this.
 Hierarchical filters were added, so that data could be filtered by province and/ or municipality. The map is interactive and automatically zooms in and out.
 
-<img src="/images/Homepage_Page1.gif" alt="Datamodel" width="750">
+<img src="/images/Homepage_Page1.gif" alt="Homepage" width="750">
+
+### Page 2
+The second page was dedicated to the sales data from WoningNood themselves. Slicers were added to easily switch between data from the different office branches and the types of houses that had been sold. The column graph at the bottom of the page had a drill through function added and an extra page had been created to also show the data on a daily level.
+
+<img src="/images/Page2.gif" alt="Page 2" width="750">
+
+### Page 3 and onwards
+Pages 3 and 4 were filled with general information on population and housing market trends over the past decades. Again, data could be filtered by date, province and municipality.
+The final page included links to all relevant data sources.
+
+<img src="/images/Page3_onwards.gif" alt="Page 3 and onwards" width="750">
+
+### Results
+The final product was presented to the fictional stakeholders, as represented by the course instructor, fellow course participants and colleages from House of Beta. The dashboard was received very well by all. Observers particularly enjoyed the ease of navigation, consistent theme, well-defined visuals and the many interactive features. 
+
+_With the many details and techniques used, you demonstrate that you not only know very well how Power BI works, but also how to combine all those possibilities into a coherent and usable end product._ - Ferdy Rademaker (course instructor)
+
+### Credits
+The data used in the dashboard had two sources:
+ 1. Data for WoningNood was created by Ferdy Rademakers for Data2Benefit - https://data2benefit.com/
+ 2. All other data is publically available at opendata.cbs.nl/statline/#/CBS/nl/

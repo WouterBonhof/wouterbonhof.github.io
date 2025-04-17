@@ -34,12 +34,12 @@ The final page included links to all relevant data sources.
 
 <img src="/images/Page3_onwards.gif" alt="Page 3 and onwards" width="750">
 
-### Results
+### Reception
 The final product was presented to the fictional stakeholders, as represented by the course instructor, fellow course participants and colleages from House of Beta. The dashboard was received very well by all. Observers particularly enjoyed the ease of navigation, consistent theme, well-defined visuals and the many interactive features. 
 
 _With the many details and techniques used, you demonstrate that you not only know very well how Power BI works, but also how to combine all those possibilities into a coherent and usable end product._ - Ferdy Rademaker (course instructor)
 
-### Credits
+### Data sources
 The data used in the dashboard had two sources:
  1. Data for WoningNood was created by Ferdy Rademakers for Data2Benefit - https://data2benefit.com/
  2. All other data is publically available at opendata.cbs.nl/statline/#/CBS/nl/

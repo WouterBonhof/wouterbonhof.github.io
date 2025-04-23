@@ -12,8 +12,8 @@ redirect_from:
 Work experience
 ======
 * March 2024 - Current: Power BI Consultant
-  * House of Cohedron
-  * Duties included: Supporting and improving existing Power BI Dashboards. Creating new Power BI Dashboards for defined projects.
+  * House of Cohedron (via House of Bèta)
+  * Duties included: Supporting and improving existing Power BI reports. Creating new Power BI reports for defined projects.
     
 * February 2024 - Current: Junior Consultant/ Data trainee
   * House of Bèta
@@ -21,7 +21,7 @@ Work experience
 
 * February 2024 - January 2025: IT Support
   * IVO Rechtspraak (via House of Bèta)
-  * Duties included: Assisting users with software issues. Setting up a new workflow + datasheet for management of internal guide documents.
+  * Duties included: Assisting users with software issues. Setting up a new workflow + Excel dashboard for management of internal guide documents.
 
 * September 2019 - August 2023: Doctoral researcher
   * University of Exeter
@@ -30,11 +30,11 @@ Work experience
  
 * April 2018 - August 2018: Junior field archaeologist
   * ADC Archeoprojecten
-  * Duties included: Documenten features and finds at archaeological digs. Supervising interns.
+  * Duties included: Documenting features and finds at archaeological digs. Supervising interns.
 
 * October 2017 - March 2018: Field archaeologist
   * Alef Groep
-  * Duties included: Documenten features and finds at archaeological digs.
+  * Duties included: Documenting features and finds at archaeological digs.
  
 Education
 ======

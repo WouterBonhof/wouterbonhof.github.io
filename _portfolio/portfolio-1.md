@@ -1,5 +1,4 @@
----
-title: "Power BI Dashboard for WoningNood"
+---Power BI Report for WoningNood"
 excerpt: "The result of a project for WoningNood, a broker in The Netherlands. <br/><img src='/images/Example-WoningNood.png' width='500'>"
 collection: portfolio
 projecturl: 'http://academicpages.github.io/files/paper1.pdf'
@@ -8,11 +7,12 @@ projecturl: 'http://academicpages.github.io/files/paper1.pdf'
 # _Page still under construction_
 
 During my Data Traineeship at House of Bèta I worked part-time as a Power BI consultant for the fictional broker WoningNood. Ferdy, an instructor from Data2Benefit, functioned as the contactpoint for WoningNood.
+
 ## Situation  
-The brokers at WoningNood have informed their managers that the current data system is not sufficient. Every week, the brokers spend at least two hours per person looking for data on the internet for their analyses and visualisations. The board has therefore hired a consultant to investigate the implementation of a Power BI dashboard in which data is extracted through API's. Internal data from WoningNood must be included in the prototype as well, allowing the company to compare themselves against market standards.
+The brokers at WoningNood have informed their managers that the current data system is not sufficient. Every week, the brokers spend at least two hours per person looking for data on the internet for their analyses and visualisations. The board has therefore hired a consultant to investigate the implementation of a Power BI report in which data is extracted through API's. Internal data from WoningNood must be included in the prototype as well, allowing the company to compare themselves against market standards.
 
 ## Product
-A fully functioning dashboard was produced within the expected time. Included were a homepage, four pages with data and visualisations and a final page listing the sources. Data from the CBS (Centraal Bureau voor Statistic/ Central Bureau for Statistiscs) was connected through API's and subjected to rigorous cleaning. Several new tables had to be made by merging and appending tables and all final tables were connected in a datamodel.  
+A fully functioning report was produced within the expected time. Included were a homepage, four pages with data and visualisations and a final page listing the sources. Data from the CBS (Centraal Bureau voor Statistic/ Central Bureau for Statistiscs) was connected through API's and subjected to rigorous cleaning. Several new tables had to be made by merging and appending tables and all final tables were connected in a datamodel.  
 <p align="center"><img src="/images/Datamodel.png" alt="Datamodel" width="750"></p>
 
 ### Homepage and Kerncijfers 2023
@@ -35,11 +35,11 @@ The final page included links to all relevant data sources.
 <img src="/images/Page3_onwards.gif" alt="Page 3 and onwards" width="750">
 
 ### Reception
-The final product was presented to the fictional stakeholders, as represented by the course instructor, fellow course participants and colleages from House of Beta. The dashboard was received very well by all. Observers particularly enjoyed the ease of navigation, consistent theme, well-defined visuals and the many interactive features. 
+The final product was presented to the fictional stakeholders, as represented by the course instructor, fellow course participants and colleages from House of Beta. The report was received very well by all. Observers particularly enjoyed the ease of navigation, consistent theme, well-defined visuals and the many interactive features. 
 
 _With the many details and techniques used, you demonstrate that you not only know very well how Power BI works, but also how to combine all those possibilities into a coherent and usable end product._ - Ferdy Rademaker (course instructor)
 
 ### Data sources
-The data used in the dashboard had two sources:
+The data used in the report had two sources:
  1. Data for WoningNood was created by Ferdy Rademakers for Data2Benefit - https://data2benefit.com/
  2. All other data is publically available at opendata.cbs.nl/statline/#/CBS/nl/

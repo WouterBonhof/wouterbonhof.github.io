@@ -5,8 +5,6 @@ collection: portfolio
 projecturl: 'http://academicpages.github.io/files/paper1.pdf'
 ---
 
-# _Page still under construction_
-
 During my Data Traineeship at House of Bèta I worked part-time as a Power BI consultant for the fictional broker WoningNood. Ferdy, an instructor from Data2Benefit, functioned as the contactpoint for WoningNood.
 
 ## Situation  

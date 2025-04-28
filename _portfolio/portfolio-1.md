@@ -23,7 +23,7 @@ Hierarchical filters were added, so that data could be filtered by province and/
 <img src="/images/Homepage_Page1.gif" alt="Homepage" width="750">
 
 ### Page 2
-The second page was dedicated to the sales data from WoningNood themselves. Slicers were added to easily switch between data from the different office branches and the types of houses that had been sold. The column graph at the bottom of the page had a drill through function added and an extra page had been created to also show the data on a daily level.
+The second page was dedicated to the sales data from WoningNood themselves. Slicers were added to easily switch between data from the different office branches and the types of houses that had been sold. The column graph at the bottom of the page had a drill through function added and an custom tooltip had been created to also show the data at a daily level.
 
 <img src="/images/Page2.gif" alt="Page 2" width="750">
 

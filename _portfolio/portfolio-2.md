@@ -23,5 +23,10 @@ The database with all the information must be made available to the public. User
 Following from the Problem statement, several use-cases were written out. From these use-cases entities and their attributes were derived, which were in turn used to design a Conceptual Datamodel (CDM) and a Logical Datamodel (LDM). All data was first documented in the 0 normal form and then in gradual steps processed to the 3rd normal form. On top of that, the 1st and 2nd Meeuwsen normal forms were used. The 1st Meeuwsen nf applies generalisation to the entitites. An example of this is the combination of the entities 'User', 'Researcher', and 'Burried person' into a single entity called 'Person'. These originally seperate entities were so-called 'specialised' entities, but by merging these into a single generalised entity, duplicate storage is avoided. Using the dedicated 'Person type' entity, the 'Person' entities can then be differentiated into users, researchers and burried people and even represent multiple types wihtout the need to store personal details in duplicate.
 The 2nd Meeuwsen nf implements a mutation history for all relevant entities, which allows an easy recovery of data in case of unwanted changes.
 
+<br/><img src='/images/LDM_GN.png' width='500'>
+*Entities denoted with an * have been designed to have their 'Nutatiegeschiedenis' (mutation history) recorded, which allows version control.
 
 ### Design choices
+The final model could have been designed in several acceptable ways. The design I presented at the end is in my view the most optimal and reliable version.
+
+To prevent duplicate data, I created the entities 'Bedrijf' (company) and 'Persoon' (person), in which personal and contact information can be stored. The primary key from these entities is then assigned a 'Partijsoort' (party type) to designate the role this company or person has in the model. This allows a person to be an author (Auteur), as well as a validator (via the entity 'Validatie') and in the future this same person might themselves be a burried person ('Begravene'). In the current model, their details will only have to be entered once.

@@ -2,7 +2,6 @@
 title: "Power BI Report for WoningNood"
 excerpt: "The result of a project for WoningNood, a broker in The Netherlands. <br/><img src='/images/Example-WoningNood.png' width='500'>"
 collection: portfolio
-projecturl: 'http://academicpages.github.io/files/paper1.pdf'
 ---
 
 During my Data Traineeship at House of Bèta I worked part-time as a Power BI consultant for the fictional broker WoningNood. Ferdy, an instructor from Data2Benefit, functioned as the contactpoint for WoningNood.

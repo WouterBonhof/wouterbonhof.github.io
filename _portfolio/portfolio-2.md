@@ -24,9 +24,18 @@ Following from the Problem statement, several use-cases were written out. From t
 The 2nd Meeuwsen nf implements a mutation history for all relevant entities, which allows an easy recovery of data in case of unwanted changes.
 
 <br/><img src='/images/LDM_GN.png' width='500'>
-*Entities denoted with an * have been designed to have their 'Nutatiegeschiedenis' (mutation history) recorded, which allows version control.
+
+*Entities denoted with an * have been designed to have their 'Mutatiegeschiedenis' (mutation history) recorded, which allows version control.
 
 ### Design choices
 The final model could have been designed in several acceptable ways. The design I presented at the end is in my view the most optimal and reliable version.
 
-To prevent duplicate data, I created the entities 'Bedrijf' (company) and 'Persoon' (person), in which personal and contact information can be stored. The primary key from these entities is then assigned a 'Partijsoort' (party type) to designate the role this company or person has in the model. This allows a person to be an author (Auteur), as well as a validator (via the entity 'Validatie') and in the future this same person might themselves be a burried person ('Begravene'). In the current model, their details will only have to be entered once.
+To prevent duplicate data, I created the entities 'Bedrijf' (company) and 'Persoon' (person), in which personal and contact information can be stored. The primary key from these entities is then assigned a 'Partijsoort' (party type) to designate the role this company or person has in the model. This allows a person to be an author (Auteur), as well as a validator (via the entity 'Validatie') and in the future this same person might themselves become a burried person ('Begravene'). In the current model, their details will only have to be entered once.
+
+Several 'connector' entities were included in the model to prevent many-to-many connections. Examples of these are the entities 'Grafzerk in publicatie' (tombstone in publication) and 'Project-publicatie' (project-publication). These entities solely include the Primary keys of the entities mentioned in the title.
+
+## Reception
+
+The model was well received by the instructor and he graded it 8.4 out of a maximum score of 10. His comments included: "It is clear that you know what you are doing."
+
+The full report (in Dutch) can be downloaded on the previous page.

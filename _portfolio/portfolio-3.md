@@ -15,6 +15,8 @@ The document consists of four tabs, each with a seperate purpose:
 3 - **Stats** Information from the Data tab is largely also present on the Stats tab. The Stats tab, however, is the source for the visualisations on the Dashboard tab to prevent data issues as the Contentmanagement team adds and removes data on the Data tab. Additionally, the Stats tab includes several derived tables necessary for the time function visualisations on the Dashboard tab.
 4 - **References** All tables used as references for the Data validation on the Data tab are present in the References tab.
 
+<br/><img src='/images/Kennisitems-Data.png' width='500'>
+
 ## The Data input
 TOPdesk, unfortunately, has no option to connect a live feed to Excel. The list with all relevant manuals was therefore exported to Excel, where the data was cleaned. I then set up a few data tables that would be used as references for Data validation (present in the 'References' tab). For columns such as 'Behandelaar' (the person processing the manual) and 'Sectie' (domain), the Data validation ensures that only the options from the drop-down list are entered and thereby prevents user errors. The colum 'Laatst_bekeken' (most recent inspection) was assigned Conditional formatting, visualising when a manual has not been revisited for over one year (365 days), would soon need to be revisited within the next three months or when a manual did not require inspection. The status of the manual was also made clear in calculated column F.
 

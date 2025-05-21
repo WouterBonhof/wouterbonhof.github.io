@@ -12,8 +12,11 @@ As part of the Contentmanagement team, I took the responsibility to create a new
 
 The document consists of four tabs, each with a seperate purpose:
 1 - **Dashboard** The dashboard tab shows aggregated data. In a heartbeat the managers can here see the total number of manuals the Contentmanagement team is responsible for, how many of these are over date, the prospects for the coming weeks and months and the progress that is being made for the manuals that are over date.
+
 2 - **Data** This tab will be used most heavily by the Contentmanagement team. The tab gives detailed informaton on the manual numbers, manual titles, the domain they are part of, when they have last been checked, who is currently responsible for the manual and what the status is of the check-up. This is also the tab where the Contentmanagement team can enter new manuals as they are created.
+
 3 - **Stats** Information from the Data tab is largely also present on the Stats tab. The Stats tab, however, is the source for the visualisations on the Dashboard tab to prevent data issues as the Contentmanagement team adds and removes data on the Data tab. Additionally, the Stats tab includes several derived tables necessary for the time function visualisations on the Dashboard tab.
+
 4 - **References** All tables used as references for the Data validation on the Data tab are present in the References tab.
 
 <br/><img src='/images/Kennisitems-Data.png' width='500'>

@@ -5,12 +5,12 @@ paperurl: 'http://wouterbonhof.github.io/files/KennisitemsOverzicht.xlsx'
 collection: portfolio
 ---
 
-# _Page still under construction_
 ## Situation
 IVO Rechtspraak (the IT serviceprovider for the judicial system in The Netherlands) is responsible for over 300 different software applications, each with their own unique challenges. Because it is impossible to train IT support to have intimate knowledge of each application, the support team has created a digital library in TOPdesk and filled it with nearly 1.000 manuals known as 'Kennisitems'. A dedicated team is responsible for the maintenance and upkeep of these manuals, but in recent years these responsibilities have largely been replaced by other time-consuming activities, such as creationg new manuals and processing user feedback. This has led to an overabundance of manuals, some of which have become and have not been revisited for several years.
 As part of the Contentmanagement team, I took the responsibility to create a new process for the annual revision of all manuals. Besides setting up a new process with a purposeful flowchart, I also wanted to create a document in which all progress can be documented and reported. The available software was limited due to application constraints set by the IT security team and management wanted the software to be userfriendly. The solution thus needed to be 1) userfriendly, 2) allow controlled data input and editing, 3) give detailed information on each manual, and 4) provide an overview of the current status. With these requirements in mind I decided to create an Excel Worksheet. Nearly everyone is familiar with the basic functionalities of Excel or can quickyl learn it, data input can be constrained and Excel has some excellent native visuals.
 
 The document consists of four tabs, each with a seperate purpose:
+
 1 - **Dashboard** The dashboard tab shows aggregated data. In a heartbeat the managers can here see the total number of manuals the Contentmanagement team is responsible for, how many of these are over date, the prospects for the coming weeks and months and the progress that is being made for the manuals that are over date.
 
 2 - **Data** This tab will be used most heavily by the Contentmanagement team. The tab gives detailed informaton on the manual numbers, manual titles, the domain they are part of, when they have last been checked, who is currently responsible for the manual and what the status is of the check-up. This is also the tab where the Contentmanagement team can enter new manuals as they are created.

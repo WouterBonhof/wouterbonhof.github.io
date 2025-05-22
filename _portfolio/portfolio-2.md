@@ -5,9 +5,7 @@ paperurl: 'http://wouterbonhof.github.io/files/datamodelleren2025.pdf'
 collection: portfolio
 ---
 
-# _Page still under construction_
-
-During my Data Traineeship at House of Bèta I took part in the course 'Datamodelleren' by Jan Meeuwsen. 
+During my Data Traineeship at House of Bèta I took part in the course 'Datamodelleren' by Jan Meeuwsen, which focussed on the DAMA-DMBoK2 datamodelling standards. 
 A key component of the course was the design of a complete datamodel. We were free to pick any topic and I decided to design a datamodel for a fictional non-profit organisation 'Grafzerken Nederland'. 
 The resulting model was well received by the instructor and was graded an 8,4 out of 10.
 

@@ -1,5 +1,5 @@
 ---
-title: "Power BI Report for WoningNood"
+title: "Power BI - Report for WoningNood"
 excerpt: "The result of a project for WoningNood, a broker in The Netherlands. <br/><img src='/images/Example-WoningNood.png' width='400'>"
 collection: portfolio
 ---
@@ -19,7 +19,7 @@ The first page with data is 'Kerncijfers 2023'. On this page, the 'core numbers'
 For two categories (Gemiddelde WOZ waarde and Bevolkingsdichtheid), no total or average values were included in the cards, as averages of averages are not appropriate. A little information button was added to the cards in these circumstances to explain this.
 Hierarchical filters were added, so that data could be filtered by province and/ or municipality. The map is interactive and automatically zooms in and out.
 
-<img src="/images/Homepage_Page1.gif" alt="Homepage" width="750">
+<img src="/images/Homepage_Page1.gif" alt="Homepage-Page1" width="750">
 
 ### Page 2
 The second page was dedicated to the sales data from WoningNood themselves. Slicers were added to easily switch between data from the different office branches and the types of houses that had been sold. The column graph at the bottom of the page had a drill through function added and an custom tooltip had been created to also show the data at a daily level.

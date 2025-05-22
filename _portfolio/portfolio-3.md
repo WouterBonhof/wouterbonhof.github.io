@@ -1,5 +1,5 @@
 ---
-title: "Manual management and Dashboard"
+title: "Excel - Document management and Dashboard for IVO Rechtspraak"
 excerpt: "To streamline the annual review of internal manuals at IVO Rechtspraak, I designed and implemented this worksheet which includes a dynamic dashboard <br/><img src='/images/Kennisitems-Dashboard.png' width='400'>"
 paperurl: 'http://wouterbonhof.github.io/files/KennisitemsOverzicht.xlsx'
 collection: portfolio
